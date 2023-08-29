@@ -10,3 +10,8 @@ I've been doing plugins (mostly spigot) for 2 years for modded networks and patc
 - Spigot API
 - Sponge API
 - Sponge Mixins
+
+## Web Development
+Some of my quick web projects:
+- https://br-simulator.worive.com/ - Experimentation of playing with canvas
+- https://worive.github.io/urbek/ - Experimentation of Svelte Framework
